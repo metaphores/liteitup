@@ -1,4 +1,11 @@
+git init
 git add .  ||  git add filename.ext
 git commit -m "message"
 git status
 git log
+git diff
+git rm fiename.ext
+git mv fiename1.ext fiename2.ext
+git reset HEAD staggingfile.ext
+git checkout refno name.ext
+git remote add Repo URL [nick name]
